@@ -243,8 +243,6 @@
 }
 
 .kaufman__triangle {
-  background-image: url(../images/kaufman-triangle.svg);
-  alt: "Треугольник Кауфман";
   width: 877px;
   height: 877px;
   position: absolute;
@@ -262,7 +260,7 @@
 }
 
 .table_theme_dark {
-  margin-bottom: 90px;
+  padding-bottom: 90px;
 }
 
 /* и элемента с модификатором вида ключ-значение */
